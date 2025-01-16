@@ -8,3 +8,7 @@ const BMIData = [
 ];
 
 // IMC = poids en kg / taille² en m
+//récupérez les inputs dans une valeur et le bouton 
+let heightInput = document.querySelector(".height-input");
+let weightInput = document.querySelector(".weight-input");
+let btn = document.querySelector("button")
